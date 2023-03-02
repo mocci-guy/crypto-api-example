@@ -5,6 +5,13 @@ This is the public API for your token. Endpoints displays the folowing data:
 - Brned Amount (Number of tokens that have been burned)
 - Trading Data (Information about token pair, current price in pair token and USDT)
 
+### Technologies:
+- JavaScript (ES6)
+- NodeJS
+- Express.js
+- Web3.js
+- Axios
+
 Endpoints example:
 
 #### GET token Total Supply
