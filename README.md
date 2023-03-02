@@ -11,10 +11,10 @@ Endpoints example:
   https://public-api-example.vercel.app/totalSupply
   
 #### GET token Circulation Supply
-  https://public-api-example.vercel.app/totalSupply
+  https://public-api-example.vercel.app/circulationSupply
 
 #### GET token Burned Amount
-  https://public-api-example.vercel.app/totalSupply
+  https://public-api-example.vercel.app/amountBurned
   
 #### GET token Trading Data
-  https://public-api-example.vercel.app/totalSupply
+  https://public-api-example.vercel.app/tradingData
